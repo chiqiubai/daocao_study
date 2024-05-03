@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>support</artifactId>
+    <description>核心支持模块</description>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
